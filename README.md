@@ -1,9 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Azkhal Zavier</h1>
 <h3 align="center">A passionate Website Developer</h3>
 
-
 [![](https://visitcount.itsvg.in/api?id=Azkhal20&icon=6&color=1)](https://visitcount.itsvg.in)
-
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/azkhalzvr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azkhal-zavier/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23140047/azkhal-zavier) 
